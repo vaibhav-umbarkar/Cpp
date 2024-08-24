@@ -1,0 +1,20 @@
+class Car {
+public:
+    // Data members
+    std::string color;
+    int year;
+
+    // Member function
+    void start() {
+        std::cout << "Car started!" << std::endl;
+    }
+};
+
+int main() {
+    // Creating an object of class Car
+    Car myCar;
+    myCar.color = "Red";
+    myCar.year = 2020;
+    myCar.start();  // Calling member function
+    return 0;
+}

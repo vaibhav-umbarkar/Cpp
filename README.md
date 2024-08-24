@@ -19,6 +19,17 @@ Placement Related Stuff in C++" is a repository focused on C++ implementations o
   - Selection Sort
   - Shell Sort
 
+(2) Patterns
+- Right Angle Triangle
+- Diamond
+
+(3) OOP (Object Oriented Programming)
+- Classes And Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
 ### Contributing
 Contributions to improve the script are welcome. Please fork the repository, make your changes, and submit a pull request.
 
