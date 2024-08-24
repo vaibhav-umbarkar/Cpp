@@ -1,13 +1,23 @@
 
-# DSA Using C++
+# Placement Related Stuff in C++
 
-This repository contains C++ implementations of various searching and sorting algorithms. It is intended for educational purposes to help understand and implement fundamental data structures and algorithms.
+Placement Related Stuff in C++" is a repository focused on C++ implementations of essential data structures, algorithms, and patterns, designed to aid in mastering concepts commonly encountered in technical interviews and placement exams.
 
 
 ### Content
 
+(1) Data Structures And Algorithms
 - Searching Algorithms
+  - Binary Search
+  - Linear Search
 - Sorting Algorithms
+  - Bubble Sort
+  - Heap Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Selection Sort
+  - Shell Sort
 
 ### Contributing
 Contributions to improve the script are welcome. Please fork the repository, make your changes, and submit a pull request.
