@@ -30,7 +30,6 @@
 
 4. **Exception Handling**
    - Try, Catch, and Throw
-   - Standard Exceptions
    - Custom Exceptions
 
 5. **Templates**
